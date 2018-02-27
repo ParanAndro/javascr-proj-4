@@ -9,6 +9,6 @@ console.log(getTriangleArea(10, 6));
 console.log(getTriangleArea(9, 0));
 
 var triangle1Area = getTriangleArea(9, 13),
-	triangleArea2 = getTriangleArea(22, 76),
+	triangleArea2 = getTriangleArea(22, 76);
 
-	console.log(triangleArea2)
+	console.log(triangleArea2);
